@@ -1,3 +1,5 @@
 # Restaurant_buzzer
 # a fun project :D
-# testing vscode
+# git clone 
+# cd my-app
+# npm start (make sure npm is installed) 
